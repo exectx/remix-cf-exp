@@ -3,11 +3,8 @@
 /assets/*
   Cache-Control: public, max-age=31536000, immutable
 
-/
-  Link: </assets/_index-CWhSQhKm.js>; rel=preload; as=script
-  Link: </assets/components-CWrbwnVj.js>; rel=preload; as=script
-  Link: </assets/entry.client-CHmt2Ukc.js>; rel=preload; as=script
-  Link: </assets/inter-BGoqdkol.woff2>; rel=preload; as=font
-  Link: </assets/jsx-runtime-0DLF9kdB.js>; rel=preload; as=script
-  Link: </assets/root-2UU_hvwR.js>; rel=preload; as=script
+/*
+  Link: </favicon.ico>; rel=preload
   Link: </assets/root-CFzcN_wy.css>; rel=preload; as=style
+  Link: </assets/inter-BGoqdkol.woff2>; rel=preload; as=font
+  Link: </assets/root-2UU_hvwR.js>; rel=preload; as=script
